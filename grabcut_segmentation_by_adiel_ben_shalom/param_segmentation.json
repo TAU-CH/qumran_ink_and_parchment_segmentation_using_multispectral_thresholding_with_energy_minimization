@@ -1,0 +1,27 @@
+{
+    "s_debug":0,
+    
+    "s_img_path": "DSS_IMAGES/",
+    "s_output_dir": "output/",
+    "s_binthresh":80,
+    "s_fill_holes":1,
+
+    "s_frag_path": "DSS_Fragments/fragments/",
+    "s_debug_path":"DSS_Fragments/debug/",
+    "s_frag_cords": "DSS_Fragments/cords/",
+    "s_frag_no_jp_path": "DSS_Fragments/fragments_no_jp/",
+    "s_json_path": "DSS_Fragments/json/",
+    "s_json_npjp_path": "DSS_Fragments/json_no_jp/",
+
+    "s_run_cut_fragment": 1,
+    "s_run_remove_jp_paper": 1,
+    "s_run_write_boundaries": 1,
+    "s_show_boundaries": 0,
+
+    "s_resize_factor": 1,
+    "s_gc_bg_rect": 40,
+
+    "s_jp_svm_threshold": 0.02
+}
+
+
